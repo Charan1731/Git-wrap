@@ -50,7 +50,7 @@ const Hero = () => {
           transition={{ duration: 0.8 }}
         >
           <Github className="w-20 h-20 text-purple-500 mx-auto mb-8" />
-          <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-pink-500">
+          <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 bg-clip-text text-transparent bg-gradient-to-r from-purple-500 via-indigo-500 to-pink-500">
             GitHub Wrapped
           </h1>
           <p className="text-xl text-gray-300 mb-12 max-w-2xl mx-auto">
